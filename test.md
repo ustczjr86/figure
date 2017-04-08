@@ -13,4 +13,3 @@
 
 ![img](https://static.dingtalk.com/media/lALOu8F4w37NARQ_276_126.png_620x10000q90g.jpg)
 
-$ \sum_{\forall i}{x_i^{2}} $
