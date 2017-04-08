@@ -1,40 +1,34 @@
-## un-ordered list
-
-- Red
-- Green
-- Blue
-- Yellow
-
-## ordered list
-
-1. Red
-2. Green
-3. Blue
-
-``````
-fafa
-fafa
-```
-
-```
-
-```
-
-$$
+<h2>un-ordered list</h2>
+<ul><li>
+Red</li>
+<li>
+Green</li>
+<li>
+Blue</li>
+<li>
+Yellow</li>
+</ul>
+<h2>ordered list</h2>
+<ol><li>
+Red</li>
+<li>
+Green</li>
+<li>
+Blue</li>
+</ol>
+<p class='math-block'>$$
 \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix} 
-\mathbf{i} & \mathbf{j} & \mathbf{k} \\
-\frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\
-\frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0 \\
+\mathbf{i} &amp; \mathbf{j} &amp; \mathbf{k} \\
+\frac{\partial X}{\partial u} &amp;  \frac{\partial Y}{\partial u} &amp; 0 \\
+\frac{\partial X}{\partial v} &amp;  \frac{\partial Y}{\partial v} &amp; 0 \\
 \end{vmatrix}
-$$
-
-
-
-
-
-| Left-Aligned | Center Aligned  | Right Aligned |
-| :----------- | :-------------: | ------------: |
-| col 3 is     | some wordy text |         $1600 |
-
-
-
+$$</p>
+<p></p>
+<p></p>
+<table>
+<thead>
+<tr><th style='text-align:left;' >Left-Aligned</th><th style='text-align:center;' >Center Aligned</th><th style='text-align:right;' >Right Aligned</th></tr></thead>
+<tbody><tr><td style='text-align:left;' >col 3 is</td><td style='text-align:center;' >some wordy text</td><td style='text-align:right;' >$1600</td></tr></tbody>
+</table>
+<p></p>
+<p></p>
