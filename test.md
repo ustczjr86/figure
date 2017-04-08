@@ -1,36 +1,40 @@
-un-ordered list
+## un-ordered list
 
 - Red
 - Green
 - Blue
 - Yellow
 
-ordered list
+## ordered list
 
 1. Red
 2. Green
 3. Blue
 
-    fafa
-    fafa
+``````
+fafa
+fafa
+```
 
-    
+```
 
+```
 
+$$
 \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix} 
 \mathbf{i} & \mathbf{j} & \mathbf{k} \\
 \frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\
 \frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0 \\
 \end{vmatrix}
+$$
 
 
 
 
 
-
-  Left-Aligned	Center Aligned 	Right Aligned
-  col 3 is    	some wordy text	        $1600
-
+| Left-Aligned | Center Aligned  | Right Aligned |
+| :----------- | :-------------: | ------------: |
+| col 3 is     | some wordy text |         $1600 |
 
 
 
