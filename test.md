@@ -31,4 +31,5 @@ $$</p>
 <tbody><tr><td style='text-align:left;' >col 3 is</td><td style='text-align:center;' >some wordy text</td><td style='text-align:right;' >$1600</td></tr></tbody>
 </table>
 <p></p>
+<p><img src='https://static.dingtalk.com/media/lALOu1DCWc0BVs0Clw_663_342.png_620x10000q90g.jpg' alt='img' /></p>
 <p></p>
